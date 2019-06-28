@@ -1,4 +1,4 @@
-from git_area.my_first_test.sum import sum
+from sum import sum
 
 class TestSum:
     def test_additions_are_additive(self):
